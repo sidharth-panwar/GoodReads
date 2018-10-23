@@ -1,0 +1,10 @@
+GoodReads/bin/
+GoodReads/obj/
+GoodReads.Tests/obj
+GoodReads.Tests/bin
+packages/*
+*.suo
+*.user
+.vs/
+node_modules/
+package-lock.json

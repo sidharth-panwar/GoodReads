@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodReads", "GoodReads\GoodReads.csproj", "{FF60EC3A-2A7D-4AC3-B757-C4F3D309905D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodReads.Tests", "GoodReads.Tests\GoodReads.Tests.csproj", "{1FB2D0F7-A58F-4082-BE26-D6AFC2AB3BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF60EC3A-2A7D-4AC3-B757-C4F3D309905D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF60EC3A-2A7D-4AC3-B757-C4F3D309905D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF60EC3A-2A7D-4AC3-B757-C4F3D309905D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF60EC3A-2A7D-4AC3-B757-C4F3D309905D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB2D0F7-A58F-4082-BE26-D6AFC2AB3BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB2D0F7-A58F-4082-BE26-D6AFC2AB3BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB2D0F7-A58F-4082-BE26-D6AFC2AB3BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB2D0F7-A58F-4082-BE26-D6AFC2AB3BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93FA1EB0-D6E5-4F75-95A2-6A227D180F47}
+	EndGlobalSection
+EndGlobal
