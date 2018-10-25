@@ -1,5 +1,11 @@
 GoodReads/bin/
 GoodReads/obj/
+Services/bin/
+Services/obj/
+Core/bin/
+Core/obj/
+DataAccess/bin/
+DataAccess/obj/
 GoodReads.Tests/obj
 GoodReads.Tests/bin
 packages/*
